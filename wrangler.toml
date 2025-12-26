@@ -9,6 +9,8 @@ PUBLIC_KOFI_URL = "https://ko-fi.com/virtualkemonight/"
 PUBLIC_SITE_URL = "https://mituzou.pages.dev"
 PUBLIC_VRCHAT_GROUP_URL = "https://vrchat.com/home/group/grp_df8cd4d3-d99b-48d0-aa45-87b464ee2124"
 PUBLIC_HOW_TO_JOIN_YOUTUBE_VIDEO_ID = "1QsDubeWwV8"
+MICROCMS_SERVICE_DOMAIN = "mituzou-website"
+MICROCMS_API_KEY = "B4LTlzAHHvwvSJeeho99lUMoEHUKg9TeGjDR"
 
 [env.production.vars]
 NODE_VERSION = "22.14.0"
